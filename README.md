@@ -157,15 +157,5 @@ terraform apply
 - Multi-resource deployment with modular architecture  
 - Real-world production setup  
 
----
-
-## 🚀 Future Enhancements
-
-- Remote backend (Azure Storage)  
-- CI/CD pipeline integration  
-- State locking and versioning  
-- Monitoring and logging integration  
-
----
 
 🔥 *Enterprise-grade Azure infrastructure using Terraform modules*
